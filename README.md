@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Andrei-Zernov
 - 👀 I’m interested in Software Development 
-- 🌱 I’m currently learning SSR
+- 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on New Approches in Web/App Development
 - 📫 How to reach me andrei.zernov@saltpay.co
 
